@@ -16,3 +16,13 @@
 2. Foi deixado apenas as colunas Dlocation e Dname e mesclado estas colunas
 
 
+*Relatório de Power BI criado*
+
+- Foi criado um relatório sobre informações do departamento:
+	- Projetos por departamento
+	- Colaboradores por departamento
+	- Gerentes por departamento
+	- Colaboradores(sexo) por departamento
+	- Média salarial por departamento
+	- Departamento por localização
+
